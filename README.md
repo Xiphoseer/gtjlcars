@@ -1,10 +1,10 @@
-# vue-htmlcars-template
+# GTJLCARS
 
 ## Project setup
 ```
 git clone git@github.com:Xiphoseer/htmlcars.git
-git clone git@github.com:Xiphoseer/vue-htmlcars-template.git myproject
-cd myproject
+git clone git@github.com:Xiphoseer/gtjlcars.git
+cd gtjlcars
 yarn install
 ```
 
