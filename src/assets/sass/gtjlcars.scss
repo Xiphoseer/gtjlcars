@@ -1,0 +1,38 @@
+.lcars-infoline {
+  a {
+    text-decoration: none;
+  }
+  a::before {
+    content: "\2022";
+  }
+}
+
+h2 {
+  text-align: right;
+  border-bottom: 0;
+  color: map-get($lcars-voyager-colors, light-orange);
+  font-size: 24pt;
+  padding-right: 2em;
+}
+
+h2::before, h2::after {
+  content: "";
+  height: 0.75em;
+  display: inline-block;
+}
+
+h2::before {
+  width: 0.75em;
+  background-color: map-get($lcars-voyager-colors, light-orange);
+  border-top-left-radius: 0.75em;
+  border-bottom-left-radius: 0.75em;
+  margin-right: 0.12em;
+}
+
+h2::after {
+  width: 0.1em;
+  background-color: transparent;
+  border-right: 0.15em solid map-get($lcars-voyager-colors, light-orange);
+  border-left: 1em solid map-get($lcars-voyager-colors, light-orange);
+  margin-left: 0.1em;
+}
