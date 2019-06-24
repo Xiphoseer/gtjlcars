@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["lcars-michael-okuda"],{1800:function(e,n,a){"use strict";a.r(n);var l=function(){var e=this,n=e.$createElement,a=e._self._c||n;return a("h2",[e._v("Michael H. Okuda")])},c=[],t=a("2877"),u={},r=Object(t["a"])(u,l,c,!1,null,null,null);n["default"]=r.exports}}]);
+//# sourceMappingURL=lcars-michael-okuda.c7094e0c.js.map

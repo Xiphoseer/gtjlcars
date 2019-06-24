@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["lcars-screensaver"],{"7cca":function(e,n,c){"use strict";c.r(n);var r=function(){var e=this,n=e.$createElement,c=e._self._c||n;return c("h2",[e._v("Screensaver / Bildschirmschoner")])},s=[],a=c("2877"),l={},t=Object(a["a"])(l,r,s,!1,null,null,null);n["default"]=t.exports}}]);
+//# sourceMappingURL=lcars-screensaver.f9fd3f12.js.map

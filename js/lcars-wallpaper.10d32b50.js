@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["lcars-wallpaper"],{"7de3":function(e,l,n){"use strict";n.r(l);var a=function(){var e=this,l=e.$createElement,n=e._self._c||l;return n("h2",[e._v("Wallpaper")])},r=[],t=n("2877"),p={},c=Object(t["a"])(p,a,r,!1,null,null,null);l["default"]=c.exports}}]);
+//# sourceMappingURL=lcars-wallpaper.10d32b50.js.map

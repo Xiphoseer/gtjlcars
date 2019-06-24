@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["lcars-colorindex"],{"65c8":function(n,e,l){"use strict";l.r(e);var c=function(){var n=this,e=n.$createElement,l=n._self._c||e;return l("h2",[n._v("LCARS Colorindex")])},o=[],r=l("2877"),t={},s=Object(r["a"])(t,c,o,!1,null,null,null);e["default"]=s.exports}}]);
+//# sourceMappingURL=lcars-colorindex.0ad6ad50.js.map
