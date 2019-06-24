@@ -12,7 +12,7 @@
         --><span class="lcars-fg-lb upper">&bull; {{time}}</span>&nbsp;<!--
         --><span class="lcars-fg-fl upper">&bull; Sternzeit {{stardate}}</span>
       </span>
-      <div class="lcars-grid-content lcars-v-scroll">
+      <div id="app-content" class="lcars-grid-content lcars-v-scroll">
         <router-view/>
       </div>
       <div class="lcars-bottombar lcars-chrome-horizontal" id="nav">
@@ -182,5 +182,10 @@
 
   .lcars-sidenav-dock {
     width: 10rem;
+  }
+
+  #app-content {
+    margin: 1rem 0;
+    overflow-y: scroll;
   }
 </style>
