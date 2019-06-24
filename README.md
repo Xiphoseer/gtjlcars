@@ -20,6 +20,11 @@ yarn run serve
 yarn run build
 ```
 
+#### Publish Build to GH pages
+```
+git push origin (git subtree split --prefix dist gh-pages):gh-pages --force
+```
+
 ### Run your tests
 ```
 yarn run test
